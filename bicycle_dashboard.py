@@ -23,7 +23,7 @@ def create_season_total_df(days_df):
 
 
 # Load cleaned data
-days_df = pd.read_csv("D:\\Rivaldi\\Proyek Akhir\\proyek akhir 2\\Dashboard\\days.csv")
+days_df = pd.read_csv("days.csv")
 
 days_df["date"] = pd.to_datetime(days_df["date"])
 days_df.sort_values(by="date", inplace=True)
