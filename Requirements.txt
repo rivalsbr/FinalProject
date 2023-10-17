@@ -1,4 +1,4 @@
-matplotlib
-pandas
-seaborn
-streamlit
+matplotlib as plt
+pandas as pd
+seaborn as sns
+streamlit as st
