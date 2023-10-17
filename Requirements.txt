@@ -1,4 +1,4 @@
-matplotlib as plt
-pandas as pd
-seaborn as sns
-streamlit as st
+pandas
+matplotlib.pyplot
+seaborn
+streamlit
